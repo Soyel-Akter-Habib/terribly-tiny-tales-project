@@ -1,5 +1,7 @@
 # Terribly Tiny Tales User Profile 
 
+## Hosted Link: https://main--comfy-gumption-c83fb0.netlify.app/
+
 This is a React project for a profile screen. It showcases a user's profile details along with some posts. The project includes various components for different sections of the profile.
 
 ## Components
