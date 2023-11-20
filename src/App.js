@@ -18,7 +18,7 @@ function App() {
               <div className="header_left">
                 <span className="header_span">
                   <img
-                    alt="TTT Stories"
+                    alt=''
                     sizes="100vw"
                     srcSet={`
                     ${logo}  640w,
@@ -63,20 +63,20 @@ function App() {
 
             {/* BG Image Part */}
             <div className="bg">
-              <img src={"/assets/mybg2.jpg"} alt="Background" />
+              <img src={"/assets/mybg2.jpg"} alt=''/>
             </div>
 
             {/* Profile Part */}
             <div className="details">
               <div className="first">
                 <div className="profile_picture">
-                  <img src={"/assets/myselfie.jpg"} alt="Profile Picture" />
+                  <img src={"/assets/myselfie.jpg"} alt=''  />
                 </div>
                 <div className="profile_name">
                   <div className="p_name">
                     Anuj Gosalia
-                    <img src={"/assets/diamond.png"} alt="diamond" />
-                    <img src={"/assets/verified.png"} alt="verified" />
+                    <img src={"/assets/diamond.png"}  alt=''/>
+                    <img src={"/assets/verified.png"} alt=''  />
                   </div>
                   <div className="counts">
                     <div className="follower_block">
@@ -102,16 +102,16 @@ function App() {
                 <div className="stats">
                   <div className="allicon">
                     <div className="icons">
-                      <img src={"/assets/star.png"} alt="star" />125
+                      <img src={"/assets/star.png"}  alt=''/>125
                     </div>
                     <div className="icons">
-                      <img src={"/assets/like_icon.png"} alt="like" />12
+                      <img src={"/assets/like_icon.png"} alt='' />12
                     </div>
                     <div className="icons">
-                      <img src={"/assets/vision.png"} alt="views" />57.8k
+                      <img src={"/assets/vision.png"} alt='' />57.8k
                     </div>
                     <div className="icons">
-                      <img src={"/assets/like.png"} alt="heart" />26.0k
+                      <img src={"/assets/like.png"}  alt=''/>26.0k
                     </div>
                   </div>
                 </div>
@@ -127,7 +127,7 @@ function App() {
                   <h1>A Changing World Order</h1>
                 </div>
                 <div className="icon">
-                  <img src={"/assets/like_icon.png"} alt="Logo" />
+                  <img src={"/assets/like_icon.png"} alt=''/>
                 </div>
               </div>
               <div className="dec">
@@ -153,7 +153,7 @@ function App() {
                   <h1>Indian v/s Australia</h1>
                 </div>
                 <div className="icon">
-                  <img src={"/assets/like_icon.png"} alt="Logo" />
+                  <img src={"/assets/like_icon.png"} alt=''/>
                 </div>
               </div>
               <div className="dec">
@@ -178,7 +178,7 @@ function App() {
                   <h1>Write To Build</h1>
                 </div>
                 <div className="icon">
-                  <img src={"/assets/like_icon.png"} alt="Logo" />
+                  <img src={"/assets/like_icon.png"} alt=''/>
                 </div>
               </div>
               <div className="dec">
